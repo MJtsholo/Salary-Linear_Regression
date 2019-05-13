@@ -1,4 +1,4 @@
-# Salary-Linear_Regression
+# Salary-Simple_Linear_Regression
 
 Instructions:
 
